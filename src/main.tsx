@@ -8,7 +8,7 @@ import App from "./App.tsx";
 createRoot(document.getElementById("root")!).render(
 	<StrictMode>
 		<PrivyProvider
-			appId="cmgkjyeob00uhju0cwzeeilxd"
+			appId="cmj8iyo8601rxl50chyroxfgg"
 			config={{
 				loginMethods: ["wallet"],
 				supportedChains: [arbitrum],
